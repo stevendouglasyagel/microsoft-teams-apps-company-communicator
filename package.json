@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "buildkite-test-collector": "^1.6.5",
+    "cdm-flat": "^4.2.0"
+  }
+}
